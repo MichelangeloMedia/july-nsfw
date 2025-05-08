@@ -1,4 +1,4 @@
-import { injectAnalytics } from '@vercel/analytics/sveltekit'
+
 
 
 <style>
@@ -16,6 +16,7 @@ import { injectAnalytics } from '@vercel/analytics/sveltekit'
 </style>
 
 <script>
+import { injectAnalytics } from '@vercel/analytics/sveltekit'
 import Link from './link.svelte'
 import Header from './header.svelte'
 
