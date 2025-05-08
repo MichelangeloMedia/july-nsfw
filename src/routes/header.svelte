@@ -6,4 +6,4 @@
 </script>
 
 
-<h1 class="text-purple-700 text-center text-6xl font-satisfy font-extrabold py-10 ">{name}</h1>
+<h1 class="text-purple-700 text-pretty md:text-balance text-center text-6xl font-satisfy font-extrabold py-10 ">{name}</h1>

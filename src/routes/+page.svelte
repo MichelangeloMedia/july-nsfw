@@ -22,7 +22,7 @@ import Link from './link.svelte'
 import Header from './header.svelte'
 
 
-let name = $state("July Res - Mis Links")
+let name = $state("July Res - Mis Redes")
 const PLATFORMS = [
     { nombre : "Cafecito - Todas tus fantasías juntas",
      link: "",
