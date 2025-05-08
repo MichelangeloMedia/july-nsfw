@@ -16,7 +16,7 @@
 </style>
 
 <script>
-    
+
 import { injectAnalytics } from '@vercel/analytics/sveltekit'
 import Link from './link.svelte'
 import Header from './header.svelte'
@@ -58,7 +58,7 @@ const PLATFORMS = [
       <!-- Profile picture -->
   <div class="flex justify-center mt-6">
     <img
-      src="https://i.ibb.co/zHfVnx82/imagen-2025-05-08-170926297.png"
+      src="https://i.ibb.co/qMPXcjdh/imagen-2025-05-08-173630968.png"
       alt=""
       class="w-32 h-32 rounded-full border-4 border-red-300 shadow-lg object-cover"
     />
