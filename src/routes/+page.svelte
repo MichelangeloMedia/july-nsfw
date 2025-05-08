@@ -53,7 +53,7 @@ const PLATFORMS = [
       <!-- Profile picture -->
   <div class="flex justify-center mt-6">
     <img
-      src="/./src/pp.jpg"
+      src="https://i.ibb.co/zHfVnx82/imagen-2025-05-08-170926297.png"
       alt=""
       class="w-32 h-32 rounded-full border-4 border-red-300 shadow-lg object-cover"
     />
