@@ -1,1 +1,9 @@
 @import 'tailwindcss';
+
+@theme { 
+
+    --color-morado: #b44a86;
+    --color-morado-mid: #ca7da7;
+    --color-rosa: #e968b0;
+
+}

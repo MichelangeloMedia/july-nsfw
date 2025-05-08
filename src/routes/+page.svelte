@@ -51,7 +51,7 @@ const PLATFORMS = [
 
 </script>
 
-<div class="h-screen bg-gradient-to-b from-pink-500 to-grey-200">
+<div class="min-h-screen bg-repeat-round bg-gradient-to-b from-morado via-morado-mid to-rosa">
 
     <Header {name} />
 
