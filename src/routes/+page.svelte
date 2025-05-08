@@ -1,3 +1,6 @@
+import { injectAnalytics } from '@vercel/analytics/sveltekit'
+
+
 <style>
 
 @keyframes shake {
