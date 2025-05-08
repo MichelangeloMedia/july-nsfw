@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&family=Shadows+Into+Light&family=Titan+One&display=swap");
+
 @import 'tailwindcss';
 
 @theme { 
@@ -5,5 +7,8 @@
     --color-morado: #b44a86;
     --color-morado-mid: #ca7da7;
     --color-rosa: #e968b0;
-
+    --font-titan: "TitanOne", sans-serif;
+    --font-shadows: "Shadows", cursive;
+    --font-satisfy: "Satisfy", cursive;
 }
+
