@@ -4,7 +4,7 @@
     import "../app.css";
 
     let { children } = $props();
-    injectAnalytics({ mode: dev ? 'development' : 'production' });
+    
 
   </script>
   {@render children()}
