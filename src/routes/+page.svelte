@@ -24,11 +24,10 @@
     
     let name = $state("July Res - Mis Redes")
     const PLATFORMS = [
-      { nombre: "Cafecito - Todas tus fantasías juntas", link: "", icon: "☕" },
-      { nombre: "Onlyfans - Contenido más exclusivo", link: "", icon: "🌟" },
-      { nombre: "CAM4 - No te pierdas mis vivos", link: "", icon: "🎥" },
+      { nombre: "Cafecito - Todas tus fantasías juntas", link: "https://cafecito.app/julires", icon: "☕" },
+      { nombre: "CAM4 - No te pierdas mis vivos", link: "https://es.cam4.com/juli_sex4", icon: "🎥" },
       { nombre: "X - Seguíme para contenido gratis", link: "https://x.com/julietare28", icon: "𝕏" },
-      { nombre: "Canal VIP Telegram - Sumate para mi contenido más HOT", link: "", icon: "🔥" }
+      { nombre: "Canal VIP Telegram - Consultame por mi contenido más HOT", link: "https://t.me/+VYb1IZF4-TszYjAx", icon: "🔥" }
     ]
     </script>
     
